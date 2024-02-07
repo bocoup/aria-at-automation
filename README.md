@@ -131,5 +131,5 @@ We have chosen not to proceed in this direction because we believe developers wo
 **[Generic Driver](https://github.com/w3c/aria-at-automation-driver)**
 A partial implementation which integrates with operating system APIs rather than any particular assistive technology.
 
-**[NVDA AT Automatoin](https://github.com/Prime-Access-Consulting/nvda-at-automation)**
+**[NVDA AT Automation](https://github.com/Prime-Access-Consulting/nvda-at-automation)**
 An implementation which integrates with [the NVDA screen reader](https://www.nvaccess.org/about-nvda/) via its "addon" system.
